@@ -53,7 +53,7 @@ export default class LoupedeckSerialConnection extends EventEmitter {
         return new Promise(res => this.connection.close(res))
     }
     async connect() {
-        this.connection = new SerialPort({ path: this.path, baudRate: 256000 })
+        this.connection = new SerialPort({ path: this.path, baudRate: 256000, rtsMode: 'handshake' })
         this.connection.on('error', this.onError.bind(this))
         this.connection.on('close', this.onDisconnect.bind(this))
         await new Promise(res => this.connection.once('open', res))
