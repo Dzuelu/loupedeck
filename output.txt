@@ -1,6 +1,6 @@
 serial - discover {
   info: {
-    path: '/dev/ttyACM2',
+    path: '/dev/ttyACM11',
     manufacturer: 'Razer Inc.',
     serialNumber: 'PM2325L06700130',
     pnpId: 'usb-Razer_Inc._Razer_Stream_Controller_PM2325L06700130-if00',
@@ -11,7 +11,423 @@ serial - discover {
   vendorId: 5426,
   productId: 3337
 }
-serial - send {
+serial - discover {
+  info: {
+    path: '/dev/ttyS0',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS1',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS10',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS11',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS12',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS13',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS14',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS15',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS16',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS17',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS18',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS19',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS2',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS20',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS21',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS22',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS23',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS24',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS25',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS26',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS27',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS28',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS29',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS3',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS30',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS31',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS4',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS5',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS6',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS7',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS8',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS9',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+Disconnect?serial - send {
   buff: 'GET /index.html\n' +
     'HTTP/1.1\n' +
     'Connection: Upgrade\n' +
@@ -26,16 +442,916 @@ serial - connect {
     'Connection: Upgrade\r\n' +
     'Sec-WebSocket-Accept: ALtlZo9FMEUEQleXJmq++ukUQ1s=\r\n' +
     '\r\n' +
-    '�\x1F'
+    '�\x1F\x1Fs\x00WebSoc\x00`\x00`00130             '
 }
-onConnect { info: { address: '/dev/ttyACM2' } }
-✅ Connected to Razer Stream Controller X at /dev/ttyACM2
+connection {
+  connection: '{\n' +
+    '  "_events": {},\n' +
+    '  "_readableState": {\n' +
+    '    "highWaterMark": 65536,\n' +
+    '    "buffer": [],\n' +
+    '    "bufferIndex": 0,\n' +
+    '    "length": 0,\n' +
+    '    "pipes": [\n' +
+    '      {\n' +
+    '        "_events": {},\n' +
+    '        "_readableState": {\n' +
+    '          "highWaterMark": 16384,\n' +
+    '          "buffer": [],\n' +
+    '          "bufferIndex": 0,\n' +
+    '          "length": 0,\n' +
+    '          "pipes": [],\n' +
+    '          "awaitDrainWriters": null\n' +
+    '        },\n' +
+    '        "_writableState": {\n' +
+    '          "highWaterMark": 16384,\n' +
+    '          "length": 0,\n' +
+    '          "corked": 0,\n' +
+    '          "writelen": 0,\n' +
+    '          "bufferedIndex": 0,\n' +
+    '          "pendingcb": 0\n' +
+    '        },\n' +
+    '        "allowHalfOpen": true,\n' +
+    '        "_eventsCount": 6,\n' +
+    '        "delimiter": 130,\n' +
+    '        "buffer": {\n' +
+    '          "type": "Buffer",\n' +
+    '          "data": []\n' +
+    '        }\n' +
+    '      }\n' +
+    '    ],\n' +
+    '    "awaitDrainWriters": null\n' +
+    '  },\n' +
+    '  "_writableState": {\n' +
+    '    "highWaterMark": 65536,\n' +
+    '    "length": 0,\n' +
+    '    "corked": 0,\n' +
+    '    "writelen": 0,\n' +
+    '    "bufferedIndex": 0,\n' +
+    '    "pendingcb": 0\n' +
+    '  },\n' +
+    '  "allowHalfOpen": true,\n' +
+    '  "port": {\n' +
+    '    "fd": 21,\n' +
+    '    "openOptions": {\n' +
+    '      "vmin": 1,\n' +
+    '      "vtime": 0,\n' +
+    '      "dataBits": 8,\n' +
+    '      "lock": true,\n' +
+    '      "stopBits": 1,\n' +
+    '      "parity": "none",\n' +
+    '      "rtscts": false,\n' +
+    '      "xon": false,\n' +
+    '      "xoff": false,\n' +
+    '      "xany": false,\n' +
+    '      "hupcl": true,\n' +
+    '      "path": "/dev/ttyACM11",\n' +
+    '      "baudRate": 256000\n' +
+    '    },\n' +
+    '    "poller": {\n' +
+    '      "_events": {},\n' +
+    '      "_eventsCount": 0,\n' +
+    '      "poller": {}\n' +
+    '    },\n' +
+    '    "writeOperation": null\n' +
+    '  },\n' +
+    '  "_pool": {\n' +
+    '    "type": "Buffer",\n' +
+    '    "data": [\n' +
+    '      72,\n' +
+    '      84,\n' +
+    '      84,\n' +
+    '      80,\n' +
+    '      47,\n' +
+    '      49,\n' +
+    '      46,\n' +
+    '      49,\n' +
+    '      32,\n' +
+    '      49,\n' +
+    '      48,\n' +
+    '      49,\n' +
+    '      32,\n' +
+    '      83,\n' +
+    '      119,\n' +
+    '      105,\n' +
+    '      116,\n' +
+    '      99,\n' +
+    '      104,\n' +
+    '      105,\n' +
+    '      110,\n' +
+    '      103,\n' +
+    '      32,\n' +
+    '      80,\n' +
+    '      114,\n' +
+    '      111,\n' +
+    '      116,\n' +
+    '      111,\n' +
+    '      99,\n' +
+    '      111,\n' +
+    '      108,\n' +
+    '      115,\n' +
+    '      13,\n' +
+    '      10,\n' +
+    '      85,\n' +
+    '      112,\n' +
+    '      103,\n' +
+    '      114,\n' +
+    '      97,\n' +
+    '      100,\n' +
+    '      101,\n' +
+    '      58,\n' +
+    '      32,\n' +
+    '      119,\n' +
+    '      101,\n' +
+    '      98,\n' +
+    '      115,\n' +
+    '      111,\n' +
+    '      99,\n' +
+    '      107,\n' +
+    '      101,\n' +
+    '      116,\n' +
+    '      13,\n' +
+    '      10,\n' +
+    '      67,\n' +
+    '      111,\n' +
+    '      110,\n' +
+    '      110,\n' +
+    '      101,\n' +
+    '      99,\n' +
+    '      116,\n' +
+    '      105,\n' +
+    '      111,\n' +
+    '      110,\n' +
+    '      58,\n' +
+    '      32,\n' +
+    '      85,\n' +
+    '      112,\n' +
+    '      103,\n' +
+    '      114,\n' +
+    '      97,\n' +
+    '      100,\n' +
+    '      101,\n' +
+    '      13,\n' +
+    '      10,\n' +
+    '      83,\n' +
+    '      101,\n' +
+    '      99,\n' +
+    '      45,\n' +
+    '      87,\n' +
+    '      101,\n' +
+    '      98,\n' +
+    '      83,\n' +
+    '      111,\n' +
+    '      99,\n' +
+    '      107,\n' +
+    '      101,\n' +
+    '      116,\n' +
+    '      45,\n' +
+    '      65,\n' +
+    '      99,\n' +
+    '      99,\n' +
+    '      101,\n' +
+    '      112,\n' +
+    '      116,\n' +
+    '      58,\n' +
+    '      32,\n' +
+    '      65,\n' +
+    '      76,\n' +
+    '      116,\n' +
+    '      108,\n' +
+    '      90,\n' +
+    '      111,\n' +
+    '      57,\n' +
+    '      70,\n' +
+    '      77,\n' +
+    '      69,\n' +
+    '      85,\n' +
+    '      69,\n' +
+    '      81,\n' +
+    '      108,\n' +
+    '      101,\n' +
+    '      88,\n' +
+    '      74,\n' +
+    '      109,\n' +
+    '      113,\n' +
+    '      43,\n' +
+    '      43,\n' +
+    '      117,\n' +
+    '      107,\n' +
+    '      85,\n' +
+    '      81,\n' +
+    '      49,\n' +
+    '      115,\n' +
+    '      61,\n' +
+    '      13,\n' +
+    '      10,\n' +
+    '      13,\n' +
+    '      10,\n' +
+    '      130,\n' +
+    '      31,\n' +
+    '      31,\n' +
+    '      115,\n' +
+    '      0,\n' +
+    '      87,\n' +
+    '      101,\n' +
+    '      98,\n' +
+    '      83,\n' +
+    '      111,\n' +
+    '      99,\n' +
+    '      0,\n' +
+    '      96,\n' +
+    '      0,\n' +
+    '      96,\n' +
+    '      48,\n' +
+    '      48,\n' +
+    '      49,\n' +
+    '      51,\n' +
+    '      48,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      8,\n' +
+    '      23,\n' +
+    '      97,\n' +
+    '      170,\n' +
+    '      7,\n' +
+    '      138,\n' +
+    '      6,\n' +
+    '      23,\n' +
+    '      98,\n' +
+    '      170,\n' +
+    '      8,\n' +
+    '      187,\n' +
+    '      23,\n' +
+    '      147,\n' +
+    '      170,\n' +
+    '      9,\n' +
+    '      186,\n' +
+    '      23,\n' +
+    '      90,\n' +
+    '      170,\n' +
+    '      10,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      11,\n' +
+    '      4,\n' +
+    '      114,\n' +
+    '      214,\n' +
+    '      16,\n' +
+    '      152,\n' +
+    '      6,\n' +
+    '      11,\n' +
+    '      248,\n' +
+    '      141,\n' +
+    '      42,\n' +
+    '      18,\n' +
+    '      189,\n' +
+    '      23,\n' +
+    '      6,\n' +
+    '      170,\n' +
+    '      11,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      18,\n' +
+    '      151,\n' +
+    '      151,\n' +
+    '      19,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      248,\n' +
+    '      20,\n' +
+    '      153,\n' +
+    '      9,\n' +
+    '      19,\n' +
+    '      4,\n' +
+    '      108,\n' +
+    '      247,\n' +
+    '      21,\n' +
+    '      152,\n' +
+    '      44,\n' +
+    '      23,\n' +
+    '      179,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      19,\n' +
+    '      12,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      19,\n' +
+    '      13,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      45,\n' +
+    '      4,\n' +
+    '      2,\n' +
+    '      8,\n' +
+    '      119,\n' +
+    '      56,\n' +
+    '      210,\n' +
+    '      22,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      19,\n' +
+    '      14,\n' +
+    '      56,\n' +
+    '      210,\n' +
+    '      22,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      25,\n' +
+    '      248,\n' +
+    '      213,\n' +
+    '      25,\n' +
+    '      247,\n' +
+    '      212,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      4,\n' +
+    '      23,\n' +
+    '      138,\n' +
+    '      4,\n' +
+    '      19,\n' +
+    '      4,\n' +
+    '      24,\n' +
+    '      215,\n' +
+    '      23,\n' +
+    '      101,\n' +
+    '      170,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      99,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      241,\n' +
+    '      25,\n' +
+    '      196,\n' +
+    '      121,\n' +
+    '      16,\n' +
+    '      27,\n' +
+    '      37,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      11,\n' +
+    '      215,\n' +
+    '      119,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      19,\n' +
+    '      17,\n' +
+    '      56,\n' +
+    '      212,\n' +
+    '      28,\n' +
+    '      54,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      29,\n' +
+    '      25,\n' +
+    '      214,\n' +
+    '      244,\n' +
+    '      45,\n' +
+    '      4,\n' +
+    '      2,\n' +
+    '      8,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      214,\n' +
+    '      31,\n' +
+    '      153,\n' +
+    '      31,\n' +
+    '      45,\n' +
+    '      250,\n' +
+    '      2,\n' +
+    '      32,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      214,\n' +
+    '      34,\n' +
+    '      153,\n' +
+    '      19,\n' +
+    '      11,\n' +
+    '      249,\n' +
+    '      157,\n' +
+    '      15,\n' +
+    '      12,\n' +
+    '      47,\n' +
+    '      244,\n' +
+    '      36,\n' +
+    '      119,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      19,\n' +
+    '      18,\n' +
+    '      56,\n' +
+    '      214,\n' +
+    '      35,\n' +
+    '      169,\n' +
+    '      23,\n' +
+    '      149,\n' +
+    '      170,\n' +
+    '      19,\n' +
+    '      186,\n' +
+    '      23,\n' +
+    '      209,\n' +
+    '      191,\n' +
+    '      139,\n' +
+    '      41,\n' +
+    '      23,\n' +
+    '      125,\n' +
+    '      170,\n' +
+    '      20,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      38,\n' +
+    '      151,\n' +
+    '      191,\n' +
+    '      23,\n' +
+    '      68,\n' +
+    '      170,\n' +
+    '      21,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      40,\n' +
+    '      24,\n' +
+    '      217,\n' +
+    '      23,\n' +
+    '      179,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      19,\n' +
+    '      22,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      19,\n' +
+    '      13,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      11,\n' +
+    '      217,\n' +
+    '      119,\n' +
+    '      56,\n' +
+    '      210,\n' +
+    '      42,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      19,\n' +
+    '      14,\n' +
+    '      56,\n' +
+    '      210,\n' +
+    '      42,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      25,\n' +
+    '      248,\n' +
+    '      213,\n' +
+    '      25,\n' +
+    '      247,\n' +
+    '      212,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      4,\n' +
+    '      43,\n' +
+    '      24,\n' +
+    '      216,\n' +
+    '      23,\n' +
+    '      180,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      45,\n' +
+    '      3,\n' +
+    '      0,\n' +
+    '      0,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      99,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      212,\n' +
+    '      45,\n' +
+    '      196,\n' +
+    '      11,\n' +
+    '      248,\n' +
+    '      154,\n' +
+    '      25,\n' +
+    '      23,\n' +
+    '      26,\n' +
+    '      170,\n' +
+    '      23,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      23,\n' +
+    '      211,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      25,\n' +
+    '      4,\n' +
+    '      211,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      3,\n' +
+    '      47,\n' +
+    '      138,\n' +
+    '      32,\n' +
+    '      23,\n' +
+    '      26,\n' +
+    '      170,\n' +
+    '      23,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      23,\n' +
+    '      211,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      23,\n' +
+    '      69,\n' +
+    '      170,\n' +
+    '      24,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      98,\n' +
+    '      211,\n' +
+    '      4,\n' +
+    '      49,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      3,\n' +
+    '      51,\n' +
+    '      191,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      217,\n' +
+    '      53,\n' +
+    '      153,\n' +
+    '      29,\n' +
+    '      45,\n' +
+    '      250,\n' +
+    '      2,\n' +
+    '      32,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      214,\n' +
+    '      54,\n' +
+    '      153,\n' +
+    '      17,\n' +
+    '      11,\n' +
+    '      249,\n' +
+    '      157,\n' +
+    '      13,\n' +
+    '      11,\n' +
+    '      216,\n' +
+    '      119,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      19,\n' +
+    '      25,\n' +
+    '      56,\n' +
+    '      214,\n' +
+    '      55,\n' +
+    '      169,\n' +
+    '      121,\n' +
+    '      26,\n' +
+    '      56,\n' +
+    '      37,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      11,\n' +
+    '      216,\n' +
+    '      119,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      19,\n' +
+    '      27,\n' +
+    '      56,\n' +
+    '      212,\n' +
+    '      57,\n' +
+    '      54,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      58,\n' +
+    '      25,\n' +
+    '      214,\n' +
+    '      244,\n' +
+    '      11,\n' +
+    '      214,\n' +
+    '      139,\n' +
+    '      40,\n' +
+    '      23,\n' +
+    '      120,\n' +
+    '      170,\n' +
+    '      28,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      60,\n' +
+    '      151,\n' +
+    '      191,\n' +
+    '      23,\n' +
+    '      31,\n' +
+    '      170,\n' +
+    '      29,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      62,\n' +
+    '      24,\n' +
+    '      219,\n' +
+    '      23,\n' +
+    '      179,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      19,\n' +
+    '      30,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      19,\n' +
+    '      13,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      11,\n' +
+    '      219,\n' +
+    '      119,\n' +
+    '      56,\n' +
+    '      210,\n' +
+    '      64,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      19,\n' +
+    '      14,\n' +
+    '      56,\n' +
+    '      210,\n' +
+    '      64,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      25,\n' +
+    '      248,\n' +
+    '      213,\n' +
+    '      25,\n' +
+    '      247,\n' +
+    '      212,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      4,\n' +
+    '      65,\n' +
+    '      24,\n' +
+    '      218,\n' +
+    '      23,\n' +
+    '      180,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      45,\n' +
+    '      3,\n' +
+    '      0,\n' +
+    '      0,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      99,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      212,\n' +
+    '      67,\n' +
+    '      196,\n' +
+    '      11,\n' +
+    '      248,\n' +
+    '      154,\n' +
+    '      25,\n' +
+    '      23,\n' +
+    '      26,\n' +
+    '      170,\n' +
+    '      23,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      23,\n' +
+    '      212,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      25,\n' +
+    '      4,\n' +
+    '      211,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      3,\n' +
+    '      69,\n' +
+    '      138,\n' +
+    '      32,\n' +
+    '      23,\n' +
+    '      26,\n' +
+    '      170,\n' +
+    '      23,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      23,\n' +
+    '      212,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      23,\n' +
+    '      32,\n' +
+    '      170,\n' +
+    '      31,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      98,\n' +
+    '      211,\n' +
+    '      4,\n' +
+    '      71,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      3,\n' +
+    '      73,\n' +
+    '      191,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      219,\n' +
+    '      75,\n' +
+    '      153,\n' +
+    '      29,\n' +
+    '      45,\n' +
+    '      250,\n' +
+    '      2,\n' +
+    '      32,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      214,\n' +
+    '      76,\n' +
+    '      153,\n' +
+    '      17,\n' +
+    '      11,\n' +
+    '      249,\n' +
+    '      157,\n' +
+    '      13,\n' +
+    '      11,\n' +
+    '      218,\n' +
+    '      119,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      19,\n' +
+    '      25,\n' +
+    '      56,\n' +
+    '      214,\n' +
+    '      77,\n' +
+    '      169,\n' +
+    '      121,\n' +
+    '      32,\n' +
+    '      78,\n' +
+    '      37,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      11,\n' +
+    '      218,\n' +
+    '      119,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      19,\n' +
+    '      27,\n' +
+    '      56,\n' +
+    '      212,\n' +
+    '      79,\n' +
+    '      54,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      80,\n' +
+    '      25,\n' +
+    '      214,\n' +
+    '      244,\n' +
+    '      11,\n' +
+    '      214,\n' +
+    '      139,\n' +
+    '      39,\n' +
+    '      23,\n' +
+    '      131,\n' +
+    '      170,\n' +
+    '      33,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      82,\n' +
+    '      151,\n' +
+    '      209,\n' +
+    '      23,\n' +
+    '      101,\n' +
+    '      170,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      99,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      241,\n' +
+    '      84,\n' +
+    '      196,\n' +
+    '      25,\n' +
+    '      4,\n' +
+    '      223,\n' +
+    '      19,\n' +
+    '      4,\n' +
+    '      24,\n' +
+    '      222,\n' +
+    '      11,\n' +
+    '      248,\n' +
+    '      155,\n' +
+    '      34,\n' +
+    '      23,\n' +
+    '      94,\n' +
+    '      170,\n' +
+    '      34,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      86,\n' +
+    '      24,\n' +
+    '      222,\n' +
+    '      23,\n' +
+    '      2,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      11,\n' +
+    '      222,\n' +
+    '      47,\n' +
+    '      214,\n' +
+    '      88,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      11,\n' +
+    '      214,\n' +
+    '      105,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '    '... 658246 more characters
+}
+onConnect { info: { address: '/dev/ttyACM11' } }
+✅ Connected to Razer Stream Controller X at /dev/ttyACM11
 send { command: 3, data: '' }
 serial - send { buff: '\x03\x03\x01', raw: false }
 onReceive {
   msgLength: 28,
   transactionID: 0,
-  response: '\x1Cs\x00WebSoc\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+  response: '\x1Cs\x00WebSoc\x00`\x00`00130          '
 }
 onReceive { msgLength: 31, transactionID: 1, response: 'PM2325L06700130' }
 send { command: 7, data: '' }
@@ -226,3 +1542,920 @@ onReceive { msgLength: 4, transactionID: 32, response: '\x04\x10 \x01' }
 send { command: 15, data: '\x00M' }
 serial - send { buff: '\x05\x0F!\x00M', raw: false }
 onReceive { msgLength: 4, transactionID: 33, response: '\x04\x0F!\x00' }
+connection {
+  connection: '{\n' +
+    '  "_events": {},\n' +
+    '  "_readableState": {\n' +
+    '    "highWaterMark": 65536,\n' +
+    '    "buffer": [],\n' +
+    '    "bufferIndex": 0,\n' +
+    '    "length": 0,\n' +
+    '    "pipes": [\n' +
+    '      {\n' +
+    '        "_events": {},\n' +
+    '        "_readableState": {\n' +
+    '          "highWaterMark": 16384,\n' +
+    '          "buffer": [],\n' +
+    '          "bufferIndex": 0,\n' +
+    '          "length": 0,\n' +
+    '          "pipes": [],\n' +
+    '          "awaitDrainWriters": null\n' +
+    '        },\n' +
+    '        "_writableState": {\n' +
+    '          "highWaterMark": 16384,\n' +
+    '          "length": 0,\n' +
+    '          "corked": 0,\n' +
+    '          "writelen": 0,\n' +
+    '          "bufferedIndex": 0,\n' +
+    '          "pendingcb": 0\n' +
+    '        },\n' +
+    '        "allowHalfOpen": true,\n' +
+    '        "_eventsCount": 6,\n' +
+    '        "delimiter": 130,\n' +
+    '        "buffer": {\n' +
+    '          "type": "Buffer",\n' +
+    '          "data": []\n' +
+    '        }\n' +
+    '      }\n' +
+    '    ],\n' +
+    '    "awaitDrainWriters": null\n' +
+    '  },\n' +
+    '  "_writableState": {\n' +
+    '    "highWaterMark": 65536,\n' +
+    '    "length": 0,\n' +
+    '    "corked": 0,\n' +
+    '    "writelen": 0,\n' +
+    '    "bufferedIndex": 0,\n' +
+    '    "pendingcb": 0\n' +
+    '  },\n' +
+    '  "allowHalfOpen": true,\n' +
+    '  "port": {\n' +
+    '    "fd": 21,\n' +
+    '    "openOptions": {\n' +
+    '      "vmin": 1,\n' +
+    '      "vtime": 0,\n' +
+    '      "dataBits": 8,\n' +
+    '      "lock": true,\n' +
+    '      "stopBits": 1,\n' +
+    '      "parity": "none",\n' +
+    '      "rtscts": false,\n' +
+    '      "xon": false,\n' +
+    '      "xoff": false,\n' +
+    '      "xany": false,\n' +
+    '      "hupcl": true,\n' +
+    '      "path": "/dev/ttyACM11",\n' +
+    '      "baudRate": 256000\n' +
+    '    },\n' +
+    '    "poller": {\n' +
+    '      "_events": {},\n' +
+    '      "_eventsCount": 1,\n' +
+    '      "poller": {}\n' +
+    '    },\n' +
+    '    "writeOperation": null\n' +
+    '  },\n' +
+    '  "_pool": {\n' +
+    '    "type": "Buffer",\n' +
+    '    "data": [\n' +
+    '      72,\n' +
+    '      84,\n' +
+    '      84,\n' +
+    '      80,\n' +
+    '      47,\n' +
+    '      49,\n' +
+    '      46,\n' +
+    '      49,\n' +
+    '      32,\n' +
+    '      49,\n' +
+    '      48,\n' +
+    '      49,\n' +
+    '      32,\n' +
+    '      83,\n' +
+    '      119,\n' +
+    '      105,\n' +
+    '      116,\n' +
+    '      99,\n' +
+    '      104,\n' +
+    '      105,\n' +
+    '      110,\n' +
+    '      103,\n' +
+    '      32,\n' +
+    '      80,\n' +
+    '      114,\n' +
+    '      111,\n' +
+    '      116,\n' +
+    '      111,\n' +
+    '      99,\n' +
+    '      111,\n' +
+    '      108,\n' +
+    '      115,\n' +
+    '      13,\n' +
+    '      10,\n' +
+    '      85,\n' +
+    '      112,\n' +
+    '      103,\n' +
+    '      114,\n' +
+    '      97,\n' +
+    '      100,\n' +
+    '      101,\n' +
+    '      58,\n' +
+    '      32,\n' +
+    '      119,\n' +
+    '      101,\n' +
+    '      98,\n' +
+    '      115,\n' +
+    '      111,\n' +
+    '      99,\n' +
+    '      107,\n' +
+    '      101,\n' +
+    '      116,\n' +
+    '      13,\n' +
+    '      10,\n' +
+    '      67,\n' +
+    '      111,\n' +
+    '      110,\n' +
+    '      110,\n' +
+    '      101,\n' +
+    '      99,\n' +
+    '      116,\n' +
+    '      105,\n' +
+    '      111,\n' +
+    '      110,\n' +
+    '      58,\n' +
+    '      32,\n' +
+    '      85,\n' +
+    '      112,\n' +
+    '      103,\n' +
+    '      114,\n' +
+    '      97,\n' +
+    '      100,\n' +
+    '      101,\n' +
+    '      13,\n' +
+    '      10,\n' +
+    '      83,\n' +
+    '      101,\n' +
+    '      99,\n' +
+    '      45,\n' +
+    '      87,\n' +
+    '      101,\n' +
+    '      98,\n' +
+    '      83,\n' +
+    '      111,\n' +
+    '      99,\n' +
+    '      107,\n' +
+    '      101,\n' +
+    '      116,\n' +
+    '      45,\n' +
+    '      65,\n' +
+    '      99,\n' +
+    '      99,\n' +
+    '      101,\n' +
+    '      112,\n' +
+    '      116,\n' +
+    '      58,\n' +
+    '      32,\n' +
+    '      65,\n' +
+    '      76,\n' +
+    '      116,\n' +
+    '      108,\n' +
+    '      90,\n' +
+    '      111,\n' +
+    '      57,\n' +
+    '      70,\n' +
+    '      77,\n' +
+    '      69,\n' +
+    '      85,\n' +
+    '      69,\n' +
+    '      81,\n' +
+    '      108,\n' +
+    '      101,\n' +
+    '      88,\n' +
+    '      74,\n' +
+    '      109,\n' +
+    '      113,\n' +
+    '      43,\n' +
+    '      43,\n' +
+    '      117,\n' +
+    '      107,\n' +
+    '      85,\n' +
+    '      81,\n' +
+    '      49,\n' +
+    '      115,\n' +
+    '      61,\n' +
+    '      13,\n' +
+    '      10,\n' +
+    '      13,\n' +
+    '      10,\n' +
+    '      130,\n' +
+    '      31,\n' +
+    '      31,\n' +
+    '      115,\n' +
+    '      0,\n' +
+    '      87,\n' +
+    '      101,\n' +
+    '      98,\n' +
+    '      83,\n' +
+    '      111,\n' +
+    '      99,\n' +
+    '      0,\n' +
+    '      96,\n' +
+    '      0,\n' +
+    '      96,\n' +
+    '      48,\n' +
+    '      48,\n' +
+    '      49,\n' +
+    '      51,\n' +
+    '      48,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      130,\n' +
+    '      28,\n' +
+    '      28,\n' +
+    '      115,\n' +
+    '      0,\n' +
+    '      87,\n' +
+    '      101,\n' +
+    '      98,\n' +
+    '      83,\n' +
+    '      111,\n' +
+    '      99,\n' +
+    '      0,\n' +
+    '      96,\n' +
+    '      0,\n' +
+    '      96,\n' +
+    '      48,\n' +
+    '      48,\n' +
+    '      49,\n' +
+    '      51,\n' +
+    '      48,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      130,\n' +
+    '      31,\n' +
+    '      31,\n' +
+    '      3,\n' +
+    '      1,\n' +
+    '      80,\n' +
+    '      77,\n' +
+    '      50,\n' +
+    '      51,\n' +
+    '      50,\n' +
+    '      53,\n' +
+    '      76,\n' +
+    '      48,\n' +
+    '      54,\n' +
+    '      55,\n' +
+    '      48,\n' +
+    '      48,\n' +
+    '      49,\n' +
+    '      51,\n' +
+    '      48,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      32,\n' +
+    '      130,\n' +
+    '      12,\n' +
+    '      12,\n' +
+    '      7,\n' +
+    '      2,\n' +
+    '      0,\n' +
+    '      2,\n' +
+    '      26,\n' +
+    '      0,\n' +
+    '      0,\n' +
+    '      0,\n' +
+    '      0,\n' +
+    '      0,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      9,\n' +
+    '      3,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      4,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      5,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      6,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      7,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      8,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      9,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      10,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      11,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      12,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      13,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      14,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      15,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      16,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      17,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      18,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      19,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      20,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      21,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      22,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      23,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      24,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      25,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      26,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      27,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      28,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      29,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      30,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      31,\n' +
+    '      0,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      16,\n' +
+    '      32,\n' +
+    '      1,\n' +
+    '      130,\n' +
+    '      4,\n' +
+    '      4,\n' +
+    '      15,\n' +
+    '      33,\n' +
+    '      0,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      45,\n' +
+    '      3,\n' +
+    '      0,\n' +
+    '      0,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      99,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      212,\n' +
+    '      45,\n' +
+    '      196,\n' +
+    '      11,\n' +
+    '      248,\n' +
+    '      154,\n' +
+    '      25,\n' +
+    '      23,\n' +
+    '      26,\n' +
+    '      170,\n' +
+    '      23,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      23,\n' +
+    '      211,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      25,\n' +
+    '      4,\n' +
+    '      211,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      3,\n' +
+    '      47,\n' +
+    '      138,\n' +
+    '      32,\n' +
+    '      23,\n' +
+    '      26,\n' +
+    '      170,\n' +
+    '      23,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      23,\n' +
+    '      211,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      23,\n' +
+    '      69,\n' +
+    '      170,\n' +
+    '      24,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      98,\n' +
+    '      211,\n' +
+    '      4,\n' +
+    '      49,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      3,\n' +
+    '      51,\n' +
+    '      191,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      217,\n' +
+    '      53,\n' +
+    '      153,\n' +
+    '      29,\n' +
+    '      45,\n' +
+    '      250,\n' +
+    '      2,\n' +
+    '      32,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      214,\n' +
+    '      54,\n' +
+    '      153,\n' +
+    '      17,\n' +
+    '      11,\n' +
+    '      249,\n' +
+    '      157,\n' +
+    '      13,\n' +
+    '      11,\n' +
+    '      216,\n' +
+    '      119,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      19,\n' +
+    '      25,\n' +
+    '      56,\n' +
+    '      214,\n' +
+    '      55,\n' +
+    '      169,\n' +
+    '      121,\n' +
+    '      26,\n' +
+    '      56,\n' +
+    '      37,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      11,\n' +
+    '      216,\n' +
+    '      119,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      19,\n' +
+    '      27,\n' +
+    '      56,\n' +
+    '      212,\n' +
+    '      57,\n' +
+    '      54,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      58,\n' +
+    '      25,\n' +
+    '      214,\n' +
+    '      244,\n' +
+    '      11,\n' +
+    '      214,\n' +
+    '      139,\n' +
+    '      40,\n' +
+    '      23,\n' +
+    '      120,\n' +
+    '      170,\n' +
+    '      28,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      60,\n' +
+    '      151,\n' +
+    '      191,\n' +
+    '      23,\n' +
+    '      31,\n' +
+    '      170,\n' +
+    '      29,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      62,\n' +
+    '      24,\n' +
+    '      219,\n' +
+    '      23,\n' +
+    '      179,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      19,\n' +
+    '      30,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      19,\n' +
+    '      13,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      11,\n' +
+    '      219,\n' +
+    '      119,\n' +
+    '      56,\n' +
+    '      210,\n' +
+    '      64,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      19,\n' +
+    '      14,\n' +
+    '      56,\n' +
+    '      210,\n' +
+    '      64,\n' +
+    '      24,\n' +
+    '      210,\n' +
+    '      25,\n' +
+    '      248,\n' +
+    '      213,\n' +
+    '      25,\n' +
+    '      247,\n' +
+    '      212,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      4,\n' +
+    '      65,\n' +
+    '      24,\n' +
+    '      218,\n' +
+    '      23,\n' +
+    '      180,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      45,\n' +
+    '      3,\n' +
+    '      0,\n' +
+    '      0,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      99,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      212,\n' +
+    '      67,\n' +
+    '      196,\n' +
+    '      11,\n' +
+    '      248,\n' +
+    '      154,\n' +
+    '      25,\n' +
+    '      23,\n' +
+    '      26,\n' +
+    '      170,\n' +
+    '      23,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      23,\n' +
+    '      212,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      25,\n' +
+    '      4,\n' +
+    '      211,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      3,\n' +
+    '      69,\n' +
+    '      138,\n' +
+    '      32,\n' +
+    '      23,\n' +
+    '      26,\n' +
+    '      170,\n' +
+    '      23,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      23,\n' +
+    '      212,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      23,\n' +
+    '      32,\n' +
+    '      170,\n' +
+    '      31,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      98,\n' +
+    '      211,\n' +
+    '      4,\n' +
+    '      71,\n' +
+    '      24,\n' +
+    '      211,\n' +
+    '      96,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      3,\n' +
+    '      73,\n' +
+    '      191,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      219,\n' +
+    '      75,\n' +
+    '      153,\n' +
+    '      29,\n' +
+    '      45,\n' +
+    '      250,\n' +
+    '      2,\n' +
+    '      32,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      108,\n' +
+    '      214,\n' +
+    '      76,\n' +
+    '      153,\n' +
+    '      17,\n' +
+    '      11,\n' +
+    '      249,\n' +
+    '      157,\n' +
+    '      13,\n' +
+    '      11,\n' +
+    '      218,\n' +
+    '      119,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      19,\n' +
+    '      25,\n' +
+    '      56,\n' +
+    '      214,\n' +
+    '      77,\n' +
+    '      169,\n' +
+    '      121,\n' +
+    '      32,\n' +
+    '      78,\n' +
+    '      37,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      12,\n' +
+    '      24,\n' +
+    '      213,\n' +
+    '      11,\n' +
+    '      218,\n' +
+    '      119,\n' +
+    '      24,\n' +
+    '      212,\n' +
+    '      19,\n' +
+    '      27,\n' +
+    '      56,\n' +
+    '      212,\n' +
+    '      79,\n' +
+    '      54,\n' +
+    '      214,\n' +
+    '      213,\n' +
+    '      80,\n' +
+    '      25,\n' +
+    '      214,\n' +
+    '      244,\n' +
+    '      11,\n' +
+    '      214,\n' +
+    '      139,\n' +
+    '      39,\n' +
+    '      23,\n' +
+    '      131,\n' +
+    '      170,\n' +
+    '      33,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      82,\n' +
+    '      151,\n' +
+    '      209,\n' +
+    '      23,\n' +
+    '      101,\n' +
+    '      170,\n' +
+    '      15,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      99,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      241,\n' +
+    '      84,\n' +
+    '      196,\n' +
+    '      25,\n' +
+    '      4,\n' +
+    '      223,\n' +
+    '      19,\n' +
+    '      4,\n' +
+    '      24,\n' +
+    '      222,\n' +
+    '      11,\n' +
+    '      248,\n' +
+    '      155,\n' +
+    '      34,\n' +
+    '      23,\n' +
+    '      94,\n' +
+    '      170,\n' +
+    '      34,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      86,\n' +
+    '      24,\n' +
+    '      222,\n' +
+    '      23,\n' +
+    '      2,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      11,\n' +
+    '      222,\n' +
+    '      47,\n' +
+    '      214,\n' +
+    '      88,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      11,\n' +
+    '      214,\n' +
+    '      105,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      1,\n' +
+    '      90,\n' +
+    '      24,\n' +
+    '      223,\n' +
+    '      23,\n' +
+    '      93,\n' +
+    '      170,\n' +
+    '      35,\n' +
+    '      24,\n' +
+    '      214,\n' +
+    '      98,\n' +
+    '      214,\n' +
+    '      4,\n' +
+    '      92,\n' +
+    '      24,\n' +
+    '      221,\n' +
+    '     '... 658082 more characters
+}
+serial - send { buff: '��\x00\x00\x00\x00', raw: true }

@@ -1,12 +1,21 @@
 #!/usr/bin/env node
 import { discover } from '../../index.js'
+import readline from 'node:readline';
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+});
 
 let loupedeck
+let retry = 4
 while (!loupedeck) {
     try {
         loupedeck = await discover()
     } catch (e) {
-        console.error(`${e}. Reattempting in 3 seconds...`)
+        retry -= 1;
+        if (retry === 0) throw new Error('Out of retries')
+        console.error(`${e}. Reattempting in 3 seconds (${retry}/3)...`)
         await new Promise(res => setTimeout(res, 3000))
     }
 }
@@ -143,3 +152,11 @@ async function shutdown() {
 
 process.on('SIGTERM', shutdown)
 process.on('SIGINT', shutdown)
+
+
+rl.question(`Disconnect?`, input => {
+    if (input === 'y') {
+        shutdown()
+        rl.close();
+    }
+});

@@ -47,6 +47,7 @@ export default class LoupedeckSerialConnection extends EventEmitter {
         return results
     }
     close() {
+        console.log('connection', {connection:JSON.stringify(this.connection, undefined, 2)})
         if (!this.connection) return
         this.send(Buffer.from(WS_CLOSE_FRAME), true)
         return new Promise(res => this.connection.close(res))
@@ -69,9 +70,14 @@ export default class LoupedeckSerialConnection extends EventEmitter {
         // Set up data pipeline
         const parser = new MagicByteLengthParser({ magicByte: 0x82 })
         this.connection.pipe(parser)
+        // parser.on('readable', this.bind(this, 'message2'))
         parser.on('data', this.emit.bind(this, 'message'))
+        console.log('connection', {connection:JSON.stringify(this.connection, undefined, 2)})
 
         this.emit('connect', { address: this.path })
+    }
+    message2() {
+        this.emit('message', this.connection.read());
     }
     isReady() {
         return this.connection !== undefined && this.connection.isOpen
