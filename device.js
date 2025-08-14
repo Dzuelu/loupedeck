@@ -182,6 +182,7 @@ export class LoupedeckDevice extends EventEmitter {
         this.emit(event, { id })
     }
     onConnect(info) {
+        console.log('onConnect', { info });
         this.emit('connect', info)
     }
     onDisconnect(error) {
@@ -201,6 +202,7 @@ export class LoupedeckDevice extends EventEmitter {
         const handler = this.handlers[buff[1]]
         const transactionID = buff[2]
         const response = handler ? handler(buff.slice(3, msgLength)) : buff
+        console.log('onReceive', { msgLength, transactionID, response: response?.toString() });
         const resolver = this.pendingTransactions[transactionID]
         if (resolver) resolver(response)
         return response
@@ -235,6 +237,7 @@ export class LoupedeckDevice extends EventEmitter {
         return this.send(COMMANDS.DRAW, displayInfo.id)
     }
     send(command, data = Buffer.alloc(0)) {
+        console.log('send', { command, data: data.toString() });
         if (!this.connection || !this.connection.isReady()) return
         this.transactionID = (this.transactionID + 1) % 256
         // Skip transaction ID's of zero since the device seems to ignore them

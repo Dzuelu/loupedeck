@@ -34,6 +34,7 @@ export default class LoupedeckSerialConnection extends EventEmitter {
             const { manufacturer, path, serialNumber } = info
             const vendorId = parseInt(info.vendorId, 16)
             const productId = parseInt(info.productId, 16)
+            console.log('serial - discover', { info, vendorId, productId });
             if (!VENDOR_IDS.includes(vendorId) && !MANUFACTURERS.includes(manufacturer)) continue
             results.push({
                 connectionType: this,
@@ -58,6 +59,7 @@ export default class LoupedeckSerialConnection extends EventEmitter {
         // Wait for the "websocket" handshake over serial (...)
         await new Promise((res, rej) => {
             this.connection.once('data', buff => {
+                console.log('serial - connect', { data: buff.toString() })
                 if (buff.toString().startsWith(WS_UPGRADE_RESPONSE)) res()
                 else rej('Invalid handshake response: ', buff)
             })
@@ -82,6 +84,7 @@ export default class LoupedeckSerialConnection extends EventEmitter {
         this.onDisconnect(err)
     }
     send(buff, raw = false) {
+        console.log('serial - send', { buff: buff.toString(), raw })
         if (!raw) {
             let prep
             // Large messages

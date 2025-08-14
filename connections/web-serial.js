@@ -63,6 +63,7 @@ export default class LoupedeckWebSerialConnection extends EventEmitter {
     static async discover() {
         // Return authorized ports if available
         const ports = await navigator.serial.getPorts()
+        console.log('discover - ports', { ports });
         if (!ports.length) {
             // Request a new port
             try {
@@ -74,6 +75,7 @@ export default class LoupedeckWebSerialConnection extends EventEmitter {
         const connections = []
         for (const port of ports) {
             const info = await port.getInfo()
+            console.log('discover - connections', { info });
             connections.push({
                 connectionType: this,
                 port,
