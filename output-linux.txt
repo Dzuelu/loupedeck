@@ -1,6 +1,6 @@
 serial - discover {
   info: {
-    path: '/dev/ttyACM2',
+    path: '/dev/ttyACM1',
     manufacturer: 'Razer Inc.',
     serialNumber: 'PM2325L06700130',
     pnpId: 'usb-Razer_Inc._Razer_Stream_Controller_PM2325L06700130-if00',
@@ -10,6 +10,422 @@ serial - discover {
   },
   vendorId: 5426,
   productId: 3337
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS0',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS1',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS10',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS11',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS12',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS13',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS14',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS15',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS16',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS17',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS18',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS19',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS2',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS20',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS21',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS22',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS23',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS24',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS25',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS26',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS27',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS28',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS29',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS3',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS30',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS31',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS4',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS5',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS6',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS7',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS8',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
+}
+serial - discover {
+  info: {
+    path: '/dev/ttyS9',
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined
+  },
+  vendorId: NaN,
+  productId: NaN
 }
 serial - send {
   buff: 'GET /index.html\n' +
@@ -25,13 +441,17 @@ serial - connect {
     'Upgrade: websocket\r\n' +
     'Connection: Upgrade\r\n' +
     'Sec-WebSocket-Accept: ALtlZo9FMEUEQleXJmq++ukUQ1s=\r\n' +
-    '\r\n' +
-    '�\x1F'
+    '\r\n'
 }
-onConnect { info: { address: '/dev/ttyACM2' } }
-✅ Connected to Razer Stream Controller X at /dev/ttyACM2
+onConnect { info: { address: '/dev/ttyACM1' } }
+✅ Connected to Razer Stream Controller X at /dev/ttyACM1
 send { command: 3, data: '' }
 serial - send { buff: '\x03\x03\x01', raw: false }
+onReceive {
+  msgLength: 31,
+  transactionID: 0,
+  response: '\x1Fs\x00WebSoc\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+}
 onReceive {
   msgLength: 28,
   transactionID: 0,

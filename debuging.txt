@@ -1,0 +1,11 @@
+Running `node examples/simple/index.mjs`
+
+Loupedeck Serial Error: Error: Permission denied, cannot open /dev/ttyACM0
+Connection to Loupedeck lost (Error: Permission denied, cannot open /dev/ttyACM0). Reconnecting in 3s...
+
+
+https://askubuntu.com/questions/616517/dev-ttyacm0-permission-denied-error
+> https://askubuntu.com/questions/58119/changing-permissions-on-serial-port
+>> sudo usermod -a -G dialout $USER
+>> logout and back in
+
